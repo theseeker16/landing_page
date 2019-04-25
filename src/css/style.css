@@ -184,6 +184,7 @@ footer p{
 
 @media screen and (max-width: 768px) {
   .card {
-     margin-top: 17px;
+     margin-top: 50px;
+     margin-bottom: 50px;
   }
 }
