@@ -176,6 +176,16 @@ footer p{
   font-size: 20px !important;
 }
 
+@media screen and (min-width: 1280px) {
+  .logo {
+    margin:0 auto;
+    display:block;
+    width: 550px;
+    height: 550px;
+    padding-top: 40px;
+  }
+}
+
 @media screen and (min-width: 768px) {
   .card {
      margin: 80px;
